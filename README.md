@@ -1,6 +1,6 @@
 # Praneet_WhatBytes
 
-A new Flutter project.
+A new Flutter project for WhatBytes Assignment Submission.
 
 ## Getting Started
 
