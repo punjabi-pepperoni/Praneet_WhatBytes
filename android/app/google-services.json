@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895698481904",
+    "project_id": "praneet-whatbytes-auth",
+    "storage_bucket": "praneet-whatbytes-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895698481904:android:854066eaef399e69f14835",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895698481904-37g5sg93qadcebfs8hvjev1e9gl0s6m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK-QWJPJbzoRR6_qANo7DR2SwwAd11HXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895698481904-37g5sg93qadcebfs8hvjev1e9gl0s6m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
